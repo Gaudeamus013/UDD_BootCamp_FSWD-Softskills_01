@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Gaudeamus013/UDD_BootCamp_FSWD/blob/main/images/banner.png)
 
-# PLAN DE ACCIÓN ESPECÍFICO
+# Proyecto 1 - Soft Skill
 
 ### Título: Lanzamiento de una Plataforma Web con Desafíos Técnicos y Nuevas Tecnologías
 
